@@ -1,0 +1,1541 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.74952, -23.58611
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 3135-0254",
+                "description": "Rodovia Raposo Tavares, s/n  Kms.14/15 \n Loja 104 - Jardim Esther ",
+                "name": "RAPOSO OFF-PRICE ",
+                "whats": "(11) 97268-5666 ",
+                "storeid": "01"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.66664, -23.60984
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 3135-0251",
+                "description": "Av. Ibirapuera, 3103 \nLoja 64 Piso Jurupis - Indianópolis",
+                "name": "IBIRAPUERA",
+                "whats": "(11) 96487-7052 ",
+                "storeid": "02"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -46.57040, -23.61429
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(13) 3500-7719",
+                "description": "Rua dos Goitacazes, 38 \nGonzaga",
+                "name": "Santos",
+                "whats": "(11) 99826-2414",
+                "storeid": "03"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.64352, -23.57147
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 3135-0220",
+                "description": "Rua Treze de Maio, 1947 \nLoja 413/414 - Paraíso",
+                "name": "Paulista",
+                "whats": "(11) 96344-2992",
+                "storeid": "04"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.62679, -23.61953
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 3135-0221",
+                "description": "Praça Leonor Kaupa, 100 \nLojas 182/183  - Jardim da Saúde",
+                "name": "PLAZA SUL",
+                "whats": "(11) 97249-9663",
+                "storeid": "05"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.72427, -23.58448
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 3135-0249",
+                "description": "Av. Dep Jacob Salvador Zveibil S/N  \nLoja Piso 1 LU088  - Butantã.",
+                "name": "BUTANTÃ",
+                "whats": "(11) 95781-8134",
+                "storeid": "06"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.69859, -23.67834
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 3135-0255",
+                "description": "Av. das Nações Unidas, 22540 \nLoja A5-21/R47-05 - Vila Almeida",
+                "name": "SP MARKET",
+                "whats": "(11) 97278-5901",
+                "storeid": "07"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.73593, -23.63090
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 3135-0252",
+                "description": "Av. Giovanni Gronchi, 5819 \nLoja 111/112 B - Vila Andrade",
+                "name": "JARDIM SUL",
+                "whats": "(11) 97233-0045",
+                "storeid": "08"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.81585, -21.21184
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(16) 3902-1143",
+                "description": "Av. Coronel Fernando Ferreira Leite, 1540 \n110 - AB Jardim  Califórnia ",
+                "name": "RIBEIRÃO PRETO",
+                "whats": "(11) 93062-6266",
+                "storeid": "09"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.82307, -21.21300
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 4839-0172",
+                "description": "Av. Antonio Frederico Ozanan, 6000 \nLoja 2008 - Vila Rio Branco",
+                "name": "MAXI JUNDIAÍ",
+                "whats": "(11) 99553-8421",
+                "storeid": "10"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.64920, -22.70431 
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(19) 3421 5470",
+                "description": "Av. Limeira, 722 \nLojas 16/17 - Vila Resende ",
+                "name": "PIRACICABA",
+                "whats": "(11) 94077-8456",
+                "storeid": "11"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.67423, -23.52667
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 3135-0246",
+                "description": "Av. Antartica, 408 \nLojas 1225/1226  - Água Branca",
+                "name": "WEST PLAZA",
+                "whats": "(11) 97297-7195",
+                "storeid": "12"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.46346, -23.53347
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(15) 3500-8501",
+                "description": "Av. Profa. Izoraida Marques Peres, 401 \nLojas 204/205-Alto do Campolim",
+                "name": "SOROCABA",
+                "whats": "(11) 94126-2344",
+                "storeid": "13"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.69573, -23.57222 
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 3135-0250",
+                "description": "Av. Rebouças, 3970 \nLoja 223 - Pinheiros",
+                "name": "ELDORADO",
+                "whats": "(11) 96475-5638",
+                "storeid": "14"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.88364, -15.79123
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(61) 3550-6737",
+                "description": "SD/Norte-Conjunto “A” \nLoja 2110-Asa Norte",
+                "name": "BRASÍLIA",
+                "whats": "(11) 97403-5928",
+                "storeid": "15"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.89224, -15.79574
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(61) 3550-6736",
+                "description": "St Scs Qd 07 \nBloco A Piso Térreo LJ 223A - Asa Sul",
+                "name": "PATIO BRASIL",
+                "whats": "(11) 99697-3850",
+                "storeid": "16"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-40.28781, -20.31237
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(27) 3500-1703",
+                "description": "Av. Américo Buaiz, 200 \nLoja 347/348/349 - Enseada do Suá",
+                "name": "VITÓRIA",
+                "whats": "(11) 94130-6631 ",
+                "storeid": "17"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-54.58790, -20.45734 
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 3135-0343",
+                "description": "Av. Afonso Pena, 4909 \nLoja 1311 - Piso Afonso Pena - Santa Fé",
+                "name": "CAMPO GRANDE",
+                "whats": "(11) 97499-7609 ",
+                "storeid": "18"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-38.48731, -3.75612 
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(85) 3022-3840",
+                "description": "Av. Washington Soares, 85 \nLoja 70 - Edson Queiroz ",
+                "name": "FORTALEZA",
+                "whats": "(11) 97538-4278",
+                "storeid": "19"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-49.31676, -25.43496 
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(41) 3500-7934",
+                "description": "Rua Pedro Viriato Parigot de Souza, 600 \nLoja 111 - Ecoville",
+                "name": "PARK BARIGUI",
+                "whats": "(11) 99694-3869",
+                "storeid": "20"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-45.89245, -23.21210
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(12) 3600-0986",
+                "description": "Av. Deputado Benedito Matarazzo, 9403 \nloja S508 - Jardim Paulista",
+                "name": "CENTER VALE ",
+                "whats": "(11) 94202-0685",
+                "storeid": "21"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-45.58189, -23.02258
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(12) 2285-9698",
+                "description": "Av.Charles Schnneider, 1700 \nLUC 097 - Parque Senhor do Bonfim",
+                "name": "TAUBATÉ",
+                "whats": "(11) 94334-8466",
+                "storeid": "22"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-45.89177, -23.21530 
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(12) 3600-0985",
+                "description": "Av. Andromeda, 227 \nLoja Suc 063 - Jardim Satélite",
+                "name": "VALE SUL",
+                "whats": "(11) 94224-0951",
+                "storeid": "23"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.88968, -23.19951
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 4839-0173",
+                "description": "Av. Nove de Julho, 3333  \nLoja Luc 175",
+                "name": "JUNDIAI SHOPP",
+                "whats": "(11) 94326-7984",
+                "storeid": "24"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-48.85344, -26.25361
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(47) 3135-0344",
+                "description": "Av. Rolf Wiest, 333 \nLoja L 94 - Bom Retiro",
+                "name": "JOINVILLE GARTEN SHOPPING",
+                "whats": "(11) 91348-3570",
+                "storeid": "25"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-48.64528, -26.99233 
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(47) 3263-8562",
+                "description": "Av. Santa Catarina, 01 \nLoja 13 -  Estados",
+                "name": "BALNEÁRIO CAMBORIÚ SHOPPING",
+                "whats": "(11) 97353-0869",
+                "storeid": "26"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-51.22881, -30.04981
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(51) 3500-8287",
+                "description": "Av. Praia de Belas, 1181 \nLoja 3076 - Praia de Belas",
+                "name": "PRAIA DE BELAS",
+                "whats": "(11) 95305-2800",
+                "storeid": "27"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-51.16239, -30.02497
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(51) 3500-8286",
+                "description": "Av. João Wallig, 1800 \nLoja 141/142 - Chácara das Pedras",
+                "name": "IGUATEMI PORTO ALEGRE ",
+                "whats": "(11) 99512-3018",
+                "storeid": "28"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-51.24582, -30.08454
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(51) 3500-8288",
+                "description": "Av. Diário de Noticias, 300 \nloja 2121 - Cristal",
+                "name": "BARRA SUL",
+                "whats": "(11) 97396-7454",
+                "storeid": "29"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.02225, -22.86233 
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(19) 3500-6648",
+                "description": "Av. Selma Parada (Bailarina), 505 \nloja A104/106 Piso 1 - JD. Madalena",
+                "name": "GALLERIA SHOPPING",
+                "whats": "(11) 94077-8476",
+                "storeid": "30"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.69862, -23.62289
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 3135-0247",
+                "description": "Av. Roque Petroni Junior, 1089 \nLuc 158 - A/I - Jardim das Acacias",
+                "name": "MORUMBI SHOPPING",
+                "whats": "(11) 94283-0202",
+                "storeid": "31"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-48.84913, -26.30356 
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(47) 3439-0073",
+                "description": "Rua Visconde de Taunay, 235 \nLuc 143/144 - Centro",
+                "name": "JOINVILLE MUELLER",
+                "whats": "(11)97405-3854",
+                "storeid": "32"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.17954, -23.51568
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 4673-3514",
+                "description": "Av. Vereador Narciso Yague Guimarães, 1001 \nlj 525/526 Térreo - Jardim Armenia",
+                "name": "MOGI DAS CRUZES",
+                "whats": "(11) 97162-3981",
+                "storeid": "33"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.59434, -23.57943
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 3135-0253",
+                "description": "Rua  Cap Pacheco Chaves, 313 \nLuc 2091 Piso L2 - Vila Prudente",
+                "name": "PLAZA SHOPPING ",
+                "whats": "(11)94251-3449",
+                "storeid": "34"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-38.46463, -12.98152
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(71) 3838-8516",
+                "description": "Av. Tancredo Neves, 148 \nLoja nº 34 e 35, quadra Z2 - 2º Piso - Piso Alameda Newton Rique - Chame-Chame",
+                "name": "SHOPPING DA BAHIA",
+                "whats": "(11) 96410-5112",
+                "storeid": "35"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-38.52468, -13.00710
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(71) 3838-8515",
+                "description": "Av. Centenário, 2992 \nloja 160 - Piso L1 - Barra",
+                "name": "SHOPPING BARRA",
+                "whats": "(11) 95655-8456",
+                "storeid": "36"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-38.45505, -12.97753
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(71) 3838-8519",
+                "description": "Av. Tancredo Neves, 3133 \nLoja 1077 C - Piso L1 - Setor 119 - Caminho das árvores",
+                "name": "SHOPPING SALVADOR",
+                "whats": "(11) 95082-7768",
+                "storeid": "37"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-38.35037, -12.91094
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(71) 3838-8518",
+                "description": "Rodovia BA-526, 305 \nLoja 1113 - Setor 119 - Piso L1 - São Cristóvão",
+                "name": "SHOPPING SALVADOR NORTE",
+                "whats": "(11) 96194-1569",
+                "storeid": "38"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-38.45539, -12.97575
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(71) 3838-8517",
+                "description": "Av. Luís Viana, 8544 \nLoja E130 - Piso L1 - Alphaville",
+                "name": "SHOPPING PARALELA",
+                "whats": "(11) 99713-0981",
+                "storeid": "39"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.77093, -23.53596
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 3135-0259",
+                "description": "Av. Dos Autonomistas, 1828 \nEspaço Comercial H04 - Vila Lyra",
+                "name": "SHOPPING SUPER OSASCO ",
+                "whats": " ",
+                "storeid": "40"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-34.89506, -8.08632
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(81) 3038-1376",
+                "description": "Av. Republica do Líbano, 251 \nSalão 1059 - Piso L1- Pina",
+                "name": "SHOPPING RIOMAR",
+                "whats": "(11) 99957-2573",
+                "storeid": "41"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ -34.90481, -8.11892
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(81) 2011-3544",
+                "description": "Rua Padre Carapuceiro, 777 \nloja 20/21 Salão BE BZ - Boa Viagem",
+                "name": "SHOPPING RECIFE",
+                "whats": " ",
+                "storeid": "42"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-34.87124, -8.03856 
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "81) 3221-0454",
+                "description": "Av. Gov Agamenon Magalhães, 153 \nLoja 236 2 Piso - Santo Amaro",
+                "name": "SHOPPING TACARUNA",
+                "whats": "(11) 97204-9816",
+                "storeid": "43"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-51.16478, -29.91488
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(51) 3500-8283/ ",
+                "description": "Av. Farroupilha, 4545 \nLoja 2072 Pavimento L2 Nível Park - Marechal Rondon",
+                "name": "SHOPPING CANOAS",
+                "whats": "(11) 94174-5748 ",
+                "storeid": "44"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-34.91860, -8.16706
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(81) 2011-3545 ",
+                "description": "Av. Barreto de Menezes, 800 \nLoja 180 - Piedade",
+                "name": "SHOPPING GUARARAPES",
+                "whats": "11 94126-2344",
+                "storeid": "45"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.83433, -23.50414
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 3135-0258",
+                "description": "Av. Piracema, 669 \nLoja Stbs0404 - Tamboré",
+                "name": "SHOPPING TAMBORÉ",
+                "whats": "11 94130-6631",
+                "storeid": "46"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-49.39855, -20.83503 
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(17) 3600-8772",
+                "description": "Av. Brig. Faria Lima, 6363 \nSuc 141 Bloco B - Vila São José",
+                "name": "SHOPPING RIO PRETO",
+                "whats": "(11) 97140-5847",
+                "storeid": "47"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.60320, -23.47905
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 3135-0245",
+                "description": "Av. Doutor Antonio Maria Laet, S/N \nLetra 41P 2 - Parada Inglesa",
+                "name": "SHOPPING TUCURUVI",
+                "whats": "(11) 96842-7345",
+                "storeid": "48"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.06376, -22.84642
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(19) 3500-6646",
+                "description": "Av. Guilherme Campos, 500 \nLoja 25 - Jd Santa Genebra",
+                "name": "SHOPPING DOM PEDRO",
+                "whats": "(11) 97379-4983",
+                "storeid": "49"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.00898, -23.10817 
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 4496-1023",
+                "description": "Estrada Joaquim Bueno Neto, 9999 \nLoja 05 - Rio Baixo",
+                "name": "SHOPPING OUTLET PREMIUM",
+                "whats": "(11) 97523-6284",
+                "storeid": "50"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.77537, -23.61423
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 3135-0260",
+                "description": "Rodovia Regis Bittencourt, 2643 \nLoja 178 - Cidade Intercap",
+                "name": "SHOPPING TABOÃO DA SERRA",
+                "whats": "(11) 91348-3705",
+                "storeid": "51"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.16272, -23.41998
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 4839-0171",
+                "description": "Rua Rafael Dias Costa, 140 \nLoja L42A - Dona Catarina",
+                "name": "SHOPPING OUTLET CATARINA",
+                "whats": "(11) 99892-3627",
+                "storeid": "52"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-51.18683, -30.05497
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(51) 3500-8285 ",
+                "description": "Av. Ipiranga, 5200 \nloja 223 - Petropolis",
+                "name": "SHOPPING BOURBON IPIRANGA",
+                "whats": "(11) 99559-4378",
+                "storeid": "53"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-48.66035, -26.90352
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": " ",
+                "description": "Rua Samuel Heusi, 234 \nCentro - Loja S-50, piso superior",
+                "name": "SHOPPING CENTER ITAJAÍ",
+                "whats": "(11) 94333-4023",
+                "storeid": "54"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.65734, -23.54220
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "",
+                "phone": "(11) 3135-0256",
+                "description": "Av. Higienópolis, 618 \nLoja 157 - Piso Veiga Filho",
+                "name": "UP4YOU  HIGIENÓPOLIS",
+                "whats": "(11) 99826-5990",
+                "storeid": "55"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.73593, -23.63096
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 3135-0257",
+                "description": "Av. Giovanni Gronchi, 5819 \nLoja L230 - Piso 1",
+                "name": "SHOPPING JARDIM SUL",
+                "whats": "(11) 94077-8526",
+                "storeid": "56"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-34.88754, -8.05891
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 3135-0396",
+                "description": "Rua José de Alencar, 105 \nLoja 123E",
+                "name": "SHOPPING BOA VISTA",
+                "whats": "(11)94120-5717",
+                "storeid": "57"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-48.61494, -27.20035 
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(47) 3040-2116",
+                "description": "Marginal Leste Rod BR 101, S/N KM 159  \nLoja 1121",
+                "name": "OUTLET PORTO BELO",
+                "whats": " ",
+                "storeid": "58"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.57661, -23.54151
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 3135-0340",
+                "description": "Rua Domingos Agostim, 91 \nloja 302/303 Piso Superior - Cidade Mãe do Céu",
+                "name": "SHOPPING TATUAPÉ",
+                "whats": " ",
+                "storeid": "59"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-43.18341, -22.94735
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(21) 3175-1113 ",
+                "description": "Praia de Botafogo, 400 \n3º Piso Quiosque Q33 - Botafogo",
+                "name": "SHOPPING BOTAFOGO",
+                "whats": "(11)97271-7168",
+                "storeid": "60"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.95519, -15.83321
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(61) 3550-6735 ",
+                "description": "Setor de Área Isolada, 6580 \nSudoeste Área Loja 270 - Zona Indústrial - Guara",
+                "name": "PARKSHOPP DF",
+                "whats": "(11) 95021-1028",
+                "storeid": "61"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-48.39962, -16.11909
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(62) 3336-6013 ",
+                "description": "Rodovia BR 060, KM22 \nLoja 1007 - Zona Rural",
+                "name": "OUTLET - BRASÍLIA",
+                "whats": "(11) 94381-5158",
+                "storeid": "62"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-43.28851, -22.67628
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(21) 3900-7159 ",
+                "description": "Av. Dona Tereza Cristina, S/N \nQuadra 02 - Lote 05 - Loja 2018",
+                "name": "OUTLET PREMIUM",
+                "whats": "(11)97288-2180",
+                "storeid": "63"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-51.14085, -29.66983
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(51) 3500-8284",
+                "description": "Rua Rincão, 505 \nloja 138 - Rincão",
+                "name": "OUTLET N.H",
+                "Whats": "(11) 97325-7961",
+                "storeid": "64"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-43.16765, -22.91216
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(21) 3175-1115",
+                "description": "Praça Senador Salgado Filho, S/N - Infraero Terminal de Embarque \n1º Pavimento Área Pública - E/L 45 47 / M-N - Centro",
+                "name": "SHOPPING SANTOS DUMONT",
+                "whats": "(11) 94285-2282",
+                "storeid": "65"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-51.22034, -29.17594
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(54) 3027-5085",
+                "description": "Rodovia RSC-453, 2780 \nLoja 312 - KM 3,5",
+                "name": "SHOPPING CAXIAS DO SUL ",
+                "whats": " ",
+                "storeid": "66"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.50396, -23.56576
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": " ",
+                "description": "Av. Aricanduva, 5555 \nLoja 28 - Jd Santa Teresinha",
+                "name": "SHOPPING ARICANDUVA",
+                "whats": "(11) 96620-6962",
+                "storeid": "67"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.77760, -23.53016
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 2620-9952",
+                "description": "Rua Tenente Avelar Pires de Azevedo, 81 \nLojas 185/186 - Centro",
+                "name": "SHOPPING OSASCO PLAZA",
+                "whats": " ",
+                "storeid": "68"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-49.26653, -25.43810
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": " ",
+                "description": "Avenida Sete de Setembro, 2275 \nLoja 01122/01123 - Rebouças",
+                "name": "SHOPPING ESTAÇÃO CURITIBA",
+                "whats": "(11) 96329-8056",
+                "storeid": "69"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-49.27747, -25.44085
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "",
+                "description": "Rua Brigadeiro Franco, 2300 \nLoja 302-3 Andar1 Cond Shopp Curitiba",
+                "name": "SHOPPING CURITIBA",
+                "whats": "(11) 99632-4546",
+                "storeid": "70"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.75706, -23.54722
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": " ",
+                "description": "Av. Leão Machado, 100 \nLoja P07A - Segundo Piso - Parque Continental",
+                "name": "CONTINENTAL SHOP",
+                "whats": "(11) 95473-4764",
+                "storeid": "71"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.54314, -23.72301
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 4128-2209",
+                "description": "Av Rotary, 624 \nLoja CBP01074 - Centro",
+                "name": "SBC PLAZA",
+                "whats": " ",
+                "storeid": "72"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.53381, -23.64661
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": " ",
+                "description": "Av Industrial, 600 \nLojas 33/34 - Jardim",
+                "name": "SHOPPING GRAN PLAZA",
+                "whats": "(11) 99015-6881",
+                "storeid": "73"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-52.31847, -31.76107
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": " ",
+                "description": "Av. Ferreira Viana, 1526 \nLojs 149 - Areal",
+                "name": "SHOPPING PELOTAS",
+                "whats": "(11) 91375-3946",
+                "storeid": "74"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-53.82974, -29.70709
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": " ",
+                "description": "Rodovia BR-287, 2885 \nLoja 1146/1147 - Patronato ",
+                "name": "SHOPPING SANTA MARIA",
+                "whats": "11 990162175",
+                "storeid": "75"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.53354, -23.66760 
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(11) 3131-2065",
+                "description": "Av. Pereira Barreto, 42 \nPiso 2 Loja 250/251 - Vila Gilda",
+                "name": "SHOPPING ABC",
+                "whats": "(11) 99015-9130",
+                "storeid": "76"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-38.94865, -12.24122 
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": " ",
+                "description": "Av. Governador João Durval Carneiro, 3665 \nLojas 268/269 - Caseb",
+                "name": "BOULEVARD SHOPPING",
+                "whats": " ",
+                "storeid": "77"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.40760, -23.99556 
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": " ",
+                "description": "Av. Ayrton Senna da Silva, 1511 \nLoja 144/146 - Xixova",
+                "name": "SHOP LITORAL PLAZA",
+                "whats": "(11) 91375-2395",
+                "storeid": "78"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.77136, -23.53529
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": " ",
+                "description": "Av. Dos Autonomistas, 1400 \nLojas 247/248 - Vila Lyra",
+                "name": "SHOP UNIÃO OSASCO",
+                "whats": "(11) 98854-5313",
+                "storeid": "79"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-49.41308, -20.86499
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "(17) 3600-8772",
+                "description": "Av. Presidente Juscelino Kubitschek de Oliveira, 5000 \nLojas 1045-1046",
+                "name": "SHOPPING IGUATEMI",
+                "whats": " ",
+                "storeid": "80"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.71857, -23.50636
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": " ",
+                "description": "Av. Raimundo Pereira de Magalhaes, 1465 \nLoja 2079 - Jardim Iris",
+                "name": "SHOPPING TIETÊ PLAZA",
+                "whats": "(11) 98842-8293",
+                "storeid": "81"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-49.06571, -22.31456 
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": " ",
+                "description": "Rua General Marcondes Salgado, 11-39 \nLoja 212 - Piso L2 ",
+                "name": "BOULEVARD SHOPPING BAURU",
+                "whats": "(11) 98842-3638",
+                "storeid": "82"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.64512, -23.48273 
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": " ",
+                "description": "Rua Conselheiro Moreira de Barros, 2780 \nLojas 2071/2072",
+                "name": "SHOPPING SANTANA",
+                "whats": "(11) 98842-9448 ",
+                "storeid": "83"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.83499, -21.22551
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": " ",
+                "description": "Av. Luiz Eduardo Toledo Prado, 900 \nLoja 1026 - Piso 1 - Vila do Golf ",
+                "name": "SHOP IGUATEMI RIBEIRÃO PRETO",
+                "whats": "(11) 99014-5516",
+                "storeid": "84"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.91635, -22.01609
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": " ",
+                "description": "Passeio dos Flamboyants, 200 \nLOJA 80, Parque Faber Castell I",
+                "name": "SHOPPING SÃO CARLOS",
+                "whats": "(11) 97229-6232",
+                "storeid": "85"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.76796, -21.20696
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "lojs",
+                "phone": "(16) 3902-1143",
+                "description": "Av. Presidente Kennedy, 1500 \nloja 371 - Ribeirania",
+                "name": "NOVO SHOPPING",
+                "whats": " ",
+                "storeid": "86"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-52.62626, -27.07022
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": " ",
+                "description": "Av. Fernando Machado, 4000 \nloja 31 -  Lider ",
+                "name": "SHOPPING PATIO CHAPECÓ",
+                "whats": "(11) 97895-8453",
+                "storeid": "87"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.55038, -23.69275
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": " ",
+                "description": "Praça Samuel Sabatini, 200  \nlojas 253/254",
+                "name": "SHOPPING METRÓPOLE",
+                "whats": "(11) 97895-8431 ",
+                "storeid": "88"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.38363, -23.96757
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": " ",
+                "description": "Rua Frei Gaspar, 365 \nLoja 323 Piso Nivel III - Centro",
+                "name": "INOVATHI BRISAMAR",
+                "whats": "(11) 97618-5576",
+                "storeid": "89"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.65073, -23.56522
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "",
+                "description": "Av. Paulista, 854 \nLoja 36 - Bela Vista",
+                "name": "INOVATHI TOP CENTER",
+                "whats": "(11) 97610-8452 ",
+                "storeid": "90"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-47.07900, -22.93086  
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": "",
+                "description": "Rua Jacy Teixeira Camargo, 940 \nLoja 428 Jardim do Lago",
+                "name": "CAMPINAS SHOPPING",
+                "whats": "(11)97895-8431 ",
+                "storeid": "91"
+            }
+        },
+
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-51.14685, -23.31213
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": " ",
+                "description": "Av. Theodoro Victorelli, 150 \nLoja 78 Piso Terreo",
+                "name": "LONDRINA BOULEVARD",
+                "whats": "(11) 98829-0205",
+                "storeid": "92"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.62523, -23.51533
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": " ",
+                "description": "Av. Cruzeiro do Sul, S/N \nQuiosque QD8M/QD9M - Caninde",
+                "name": "RODOVIÁRIA TIETE",
+                "whats": "(11) 97895-8431 ",
+                "storeid": "93"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.63865, -23.54638
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": " ",
+                "description": "Rua Cel Xavier de Toledo, 23 \nlojas 232/233/234 - Centro",
+                "name": "INOVATHI SHOP LIGHT",
+                "whats": "(11) 97895-8431",
+                "storeid": "94"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-51.93256, -23.42221
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": " ",
+                "description": "Av. São Paulo, 1099 \nLojas 309/310 - Zona 01",
+                "name": "MARINGA PARK",
+                "whats": "(11) 98829-0529",
+                "storeid": "95"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-46.54916, -23.48797
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "loja",
+                "phone": " ",
+                "description": "Rua Engenheiro Camilo Olivetti, 295 \nLoja N16",
+                "name": "SHOPPING INTERNACIONAL GUARULHOS",
+                "whats": " ",
+                "storeid": "96"
+            }
+        }
+    ]
+}
